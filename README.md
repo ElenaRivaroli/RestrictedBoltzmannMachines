@@ -1,1 +1,1 @@
-# RestrictedBoltzmannMachines
+# Restricted Boltzmann Machines
